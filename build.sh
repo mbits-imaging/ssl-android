@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ANDROID_NDK=~/Android/Sdk/ndk-bundle
-OPENSSL_VERSION=1.1.1b
+OPENSSL_VERSION=1.1.1c
 
 API_LEVEL=23
 
